@@ -11,7 +11,7 @@ def read(fname):
 
 setup(
     name='csv2qif_mbank',
-    version='0.0.1',
+    version='0.0.2',
     description='Convert CSV from mBank account to QIF file',
     long_description=read("README.md"),
     author='Paweł Walczak',
