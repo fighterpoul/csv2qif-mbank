@@ -9,8 +9,8 @@ __text_regex = re.compile('[\t ]+')
 __mapping = {
     'date': 0,
     'price': 4,
-    'recipient': 1,
-    'desc': 3,
+    'recipient': 2,
+    'desc': 1,
 }
 
 
